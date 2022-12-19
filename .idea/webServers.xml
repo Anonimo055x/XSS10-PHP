@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6af1bc0c-a06a-4347-a0e0-e65720dccf40" name="Pagamento" url="https://www.fastshop.com.br/web/checkout-v2/pagamento">
+        <fileTransfer mountedRoot="C:\Users" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
